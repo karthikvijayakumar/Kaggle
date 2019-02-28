@@ -19,14 +19,11 @@ pandas, numpy, matplotlib, seaborn, calendar
 In whichever folder the jupyter notebook is, you would need to create a subfolder called seattle_data_airbnb which would host the data files from [Kaggle](https://www.kaggle.com/airbnb/seattle). Say the jupyter notebook is in folder X, the following folder structure should exist:
 
 X
-|-Seattle_AirBnB_exploration.ipynb
-|-seattle_data_airnbnb
-|--|-calendar.csv
-|--|-reviews.csv
-|--|-listings.csv
-
-
---|-calendar.csv
+<br>|-Seattle_AirBnB_exploration.ipynb
+<br>|-seattle_data_airnbnb
+<br>|--|-calendar.csv
+<br>|--|-reviews.csv
+<br>|--|-listings.csv
 
 # Summary of results
 
